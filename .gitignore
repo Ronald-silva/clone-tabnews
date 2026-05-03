@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 .next
 node_modules/
 *.log
-=======
-.next
-node_modules/
-*.log
->>>>>>> 6307246b70997370ab23d288c993e58144f8265e
+.env
 .env.local
+.env.development
+.env.test
