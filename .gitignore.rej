@@ -1,9 +1,0 @@
-diff a/.gitignore b/.gitignore	(rejected hunks)
-@@ -1 +1,4 @@
--.next
-\ No newline at end of file
-+.next
-+node_modules/
-+*.log
-+.env.local
-\ No newline at end of file
